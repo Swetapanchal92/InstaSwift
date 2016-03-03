@@ -36,7 +36,7 @@
 
 #### You will be asked to provide feedback to your peers in the following areas:
 
-- Does a filtered image replace the original image when the user taps a filter button? <mark>1 pt.</mark>
+- Does a filtered image replace the original image when the user taps a filter button? ==1 pt.==
 - When you tap the compare button, does the visible image toggle between the filtered image and the original image? <mark>1 pt.</mark>
 - Is the compare button disabled if the user has not selected a filter? <mark>1 pt.</mark>
 - When the user touches the image, does the app toggle between the filtered and original image temporarily? Does the image toggle back when the user lifts their finger? <mark>1 pt.</mark>
