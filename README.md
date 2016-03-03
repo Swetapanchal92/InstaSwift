@@ -5,7 +5,7 @@
 > ## Specs
 
 > * Universal target (iPhone/iPad)
-> * Swift
+> * Swift 2.0
 > * Autolayout
 
 > Made up for Coursera exam
@@ -36,15 +36,15 @@
 
 #### You will be asked to provide feedback to your peers in the following areas:
 
-- Does a filtered image replace the original image when the user taps a filter button? ==1 pt.==
-- When you tap the compare button, does the visible image toggle between the filtered image and the original image? <mark>1 pt.</mark>
-- Is the compare button disabled if the user has not selected a filter? <mark>1 pt.</mark>
-- When the user touches the image, does the app toggle between the filtered and original image temporarily? Does the image toggle back when the user lifts their finger? <mark>1 pt.</mark>
-- When images are toggled or switched, do they cross fade smoothly? <mark>1 pt.</mark>
-- Have the filter option buttons been replaced with small example thumbnails? <mark>1 pt.</mark>
-- Is it possible to adjust the intensity of the filter using a slider widget? <mark>1 pt.</mark>
-- Has the static list of filters been replaced with a dynamic, scrollable list? (Bonus) <mark>1 pt.</mark>
-- Have you found any crashing bugs in the app? <mark>1 pt.</mark>
+- Does a filtered image replace the original image when the user taps a filter button? **1 pt.**
+- When you tap the compare button, does the visible image toggle between the filtered image and the original image? **1 pt.**
+- Is the compare button disabled if the user has not selected a filter? **1 pt.**
+- When the user touches the image, does the app toggle between the filtered and original image temporarily? Does the image toggle back when the user lifts their finger? **1 pt.**
+- When images are toggled or switched, do they cross fade smoothly? **1 pt.**
+- Have the filter option buttons been replaced with small example thumbnails? **1 pt.**
+- Is it possible to adjust the intensity of the filter using a slider widget? **1 pt.**
+- Has the static list of filters been replaced with a dynamic, scrollable list? (Bonus) **1 pt.**
+- Have you found any crashing bugs in the app? **1 pt.**
 
 **LANGUAGE**: Submissions must be in English
 
