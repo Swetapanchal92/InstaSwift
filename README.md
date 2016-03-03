@@ -2,8 +2,6 @@
 
 > **Instagram like app**. 
 
-> ## Specs
-
 > * Universal target (iPhone/iPad)
 > * Swift 2.0
 > * Autolayout
@@ -47,4 +45,9 @@
 - Have you found any crashing bugs in the app? **1 pt.**
 
 **LANGUAGE**: Submissions must be in English
+
+#Results
+![MacDown Screenshot](https://raw.githubusercontent.com/elpsk/InstaSwift/master/InstaSwift_ss-00.png)
+![MacDown Screenshot](https://raw.githubusercontent.com/elpsk/InstaSwift/master/InstaSwift_ss-01.png)
+![MacDown Screenshot](https://raw.githubusercontent.com/elpsk/InstaSwift/master/InstaSwift_ss-02.png)
 
